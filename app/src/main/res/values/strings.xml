@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">theCopy</string>
+    <string name="input_event_to_add">Input Event to Add</string>
+    <string name="pit_scout">Pit scout</string>
+    <string name="match_scout">Match Scout</string>
+
 </resources>
