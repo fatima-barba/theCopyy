@@ -1,7 +1,62 @@
 <resources>
+
+    <!--Activity Main-->
     <string name="app_name">theCopy</string>
     <string name="input_event_to_add">Input Event to Add</string>
     <string name="pit_scout">Pit scout</string>
     <string name="match_scout">Match Scout</string>
+
+
+
+    <!--Activity Ownership-->
+    <string name="text_ScoutInformation">Scouting Information</string>
+    <string name="text_promptSpinnerMatch">Spinner Match</string>
+    <string name="send_data_via_bluetooth">Send Data Via Bluetooth</string>
+    <string name="button_startMatch">Start Match</string>
+
+    <!--Activity Ownership Scouting-->
+    <string name="blue_switch_alliance">Blue Alliance</string>
+    <string name="blue_scale">Blue Scale</string>
+    <string name="blue_switch_opponent">Blue Opponent</string>
+    <string name="red_scale">Red Scale</string>
+    <string name="red_switch_alliance">Red Alliance</string>
+    <string name="start_match">Start Match</string>
+    <string name="undo">Undo</string>
+    <string name="enable_ownership_change">Enable Ownership Change</string>
+    <string name="disable_ownership_change">Disable Ownership Change</string>
+    <string name="finish_match">Finish Match</string>
+
+    <!--Activity Pit Scouting-->
+    <string name="TextView_autoType">Auto Type</string>
+    <string name="CheckBox_crossBaseline">Cross Base Line</string>
+    <string name="CheckBox_cube_in_switch">cube switch</string>
+    <string name="CheckBox_cube_in_scale">cube in scale</string>
+    <string name="CheckBox_cube_in_exchange">in exchange</string>
+    <string name="CheckBox_other_auto">other auto</string>
+    <string name="TextView_switch_or_scale">switch or scale</string>
+    <string name="CheckBox_scale">scale</string>
+    <string name="CheckBox_switch">switch</string>
+    <string name="TextView_averageSpeed">average speed</string>
+    <string name="TextView_cycleAreas">cycle areas</string>
+    <string name="CheckBox_ground">ground</string>
+    <string name="CheckBox_portal">portal</string>
+    <string name="CheckBox_switch2">switch 2</string>
+    <string name="TextView_climb">climb</string>
+    <string name="TextView_floorPickup">floor pickup</string>
+    <string name="RadioButton_yes">yes</string>
+    <string name="RadioButton_no">no</string>
+    <string name="TextView_driveTrain">drive train</string>
+    <string name="TextView_intakeShooterType">shooter type</string>
+    <string name="additional_comments">comments</string>
+
+    <!--Activity Scout-->
+    <string name="text_promptSpinnerDevice">spinner device</string>
+    <string name="text_promptSpinnerTeam">spinner team</string>
+
+    <!--Activity Vault Scouting-->
+    <string name="force">force</string>
+    <string name="levitate">levitate</string>
+    <string name="boost">boost</string>
+
 
 </resources>

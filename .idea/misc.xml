@@ -18,6 +18,21 @@
       </map>
     </option>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_match.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_ownership.xml" value="0.1" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_ownership_scouting.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_pit_scouting.xml" value="0.1" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_scout.xml" value="0.1" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_type.xml" value="0.1" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_vault.xml" value="0.1" />
+        <entry key="..\:/Users/miman/OneDrive/Documents/Android Projects/App Apps/theCopy/app/src/main/res/layout/activity_vault_scouting.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
