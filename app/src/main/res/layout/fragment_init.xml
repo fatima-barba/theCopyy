@@ -6,7 +6,7 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     android:paddingBottom="16dp"
-    android:background="@color/BackGroundGreen">
+    android:background="@color/green">
 
 
 
@@ -18,13 +18,13 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/nopic"
         android:layout_above="@+id/cb_noShow"
-        android:background="@color/BackGroundGreen"/>
+        android:background="@color/green"/>
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/cb_noShow"
         android:id="@+id/cb_noShow"
-        android:textColor="@color/Goldish"
+        android:textColor="@color/gold"
         android:typeface="serif"
         android:onClick="dialog_noShow"
         android:layout_alignParentBottom="true"

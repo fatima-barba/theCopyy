@@ -26,7 +26,7 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
                 android:text="0"
-                android:textColor="@color/Black"
+                android:textColor="@color/black"
                 android:textSize="30sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -161,7 +161,7 @@
             android:layout_weight="31.11"
             android:fontFamily="casual"
             android:text="@string/start_match"
-            android:textColor="@color/Black"
+            android:textColor="@color/black"
             android:textSize="14sp"
             android:textStyle="normal|bold" />
 
@@ -172,7 +172,7 @@
             android:layout_weight="75"
             android:fontFamily="casual"
             android:text="@string/checkBox_hadAuto"
-            android:textColor="@color/Goldish"
+            android:textColor="@color/gold"
             android:textSize="14sp"
             android:textStyle="normal|bold" />
 
@@ -183,7 +183,7 @@
             android:layout_weight="75"
             android:fontFamily="casual"
             android:text="@string/checkBox_crossedBaseline"
-            android:textColor="@color/Goldish"
+            android:textColor="@color/gold"
             android:textSize="14sp"
             android:textStyle="normal|bold" />
 
@@ -194,7 +194,7 @@
             android:layout_weight="75"
             android:fontFamily="casual"
             android:text="@string/picked_up_cube"
-            android:textColor="@color/Goldish"
+            android:textColor="@color/gold"
             android:textSize="14sp"
             android:textStyle="normal|bold" />
 
@@ -205,7 +205,7 @@
             android:layout_weight="75"
             android:fontFamily="casual"
             android:text="@string/remove_cube"
-            android:textColor="@color/Goldish"
+            android:textColor="@color/gold"
             android:textSize="14sp"
             android:textStyle="normal|bold" />
 

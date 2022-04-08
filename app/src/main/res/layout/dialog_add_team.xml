@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/BackGroundGreen">
+    android:background="@color/green">
 
 
     <TextView
@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Input Team # to Add"
-        android:textColor="@color/White"
+        android:textColor="@color/white"
         android:textSize="30dp"
         android:inputType="number"
         />
@@ -31,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Input Team Name to Add"
-        android:textColor="@color/White"
+        android:textColor="@color/white"
         android:textSize="30dp"
         />
 
