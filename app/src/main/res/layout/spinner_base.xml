@@ -5,4 +5,4 @@
     android:padding="7dp"
     android:textSize="14sp"
     android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium.Inverse"
-    android:textColor="@color/White"/>
+    android:textColor="@color/white"/>

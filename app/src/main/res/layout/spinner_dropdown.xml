@@ -5,5 +5,5 @@
     android:height="40dp"
     android:paddingLeft="7dp"
     android:textSize="14sp"
-    android:textColor="@color/Black"
-    android:background="@color/White"/>
+    android:textColor="@color/black"
+    android:background="@color/white"/>

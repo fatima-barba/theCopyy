@@ -160,7 +160,7 @@
                 android:layout_weight=".00012"
                 android:fontFamily="casual"
                 android:text="@string/start_match"
-                android:textColor="@color/Black"
+                android:textColor="@color/black"
                 android:textSize="14sp"
                 android:textStyle="normal|bold" />
 
@@ -172,7 +172,7 @@
                 android:layout_weight=".00012"
                 android:fontFamily="casual"
                 android:text="@string/remove_cube"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gold"
                 android:textSize="14sp"
                 android:textStyle="normal|bold" />
 
@@ -182,7 +182,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="casual"
                 android:text="@string/picked_up_cube"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gold"
                 android:textSize="14sp"
                 android:textStyle="normal|bold" />
 
@@ -195,7 +195,7 @@
                 android:layout_weight=".00012"
                 android:fontFamily="casual"
                 android:text="@string/climb"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gold"
                 android:textStyle="bold" />
 
             <CheckBox
@@ -205,7 +205,7 @@
                 android:layout_weight=".00012"
                 android:fontFamily="casual"
                 android:text="@string/climb_assist"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gold"
                 android:textStyle="bold" />
 
             <CheckBox
@@ -215,7 +215,7 @@
                 android:layout_weight=".00012"
                 android:fontFamily="casual"
                 android:text="@string/parking"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gold"
                 android:textStyle="bold" />
 
             <CheckBox
@@ -225,7 +225,7 @@
                 android:layout_weight=".00012"
                 android:fontFamily="casual"
                 android:text="@string/human_player"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gold"
                 android:textSize="14sp"
                 android:textStyle="normal|bold" />
 
@@ -235,7 +235,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight=".00012"
                 android:text="@string/checkBox_robotDisabled"
-                android:textColor="@color/Goldish" />
+                android:textColor="@color/gold" />
 
             <CheckBox
                 android:id="@+id/teleCb_redCard"
@@ -243,7 +243,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight=".00012"
                 android:text="@string/CheckBox_redCard"
-                android:textColor="@color/Goldish" />
+                android:textColor="@color/gold" />
 
             <CheckBox
                 android:id="@+id/teleCb_yellowCard"
@@ -251,7 +251,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight=".00012"
                 android:text="@string/CheckBox_yellowCard"
-                android:textColor="@color/Goldish" />
+                android:textColor="@color/gold" />
 
 
             <TextView
@@ -260,7 +260,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight=".00012"
                 android:text="@string/number_of_fouls"
-                android:textColor="@color/Goldish" />
+                android:textColor="@color/gold" />
 
             <com.vandenrobotics.saga2018.views.NumberPicker
                 android:id="@+id/teleNp_foulNum"
@@ -275,7 +275,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight=".00012"
                 android:text="@string/number_of_tech_fouls"
-                android:textColor="@color/Goldish" />
+                android:textColor="@color/gold" />
 
             <com.vandenrobotics.saga2018.views.NumberPicker
                 android:id="@+id/teleNp_techFoulNum"
@@ -300,7 +300,7 @@
                 android:fontFamily="casual"
                 android:onClick="finishMatch"
                 android:text="@string/finish_match"
-                android:textColor="@color/Black"
+                android:textColor="@color/black"
                 android:textSize="14sp"
                 android:textStyle="normal|bold" />
 
