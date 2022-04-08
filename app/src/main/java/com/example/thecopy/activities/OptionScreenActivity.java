@@ -9,6 +9,7 @@ import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.DialogFragment;
 
+import com.example.thecopy.R;
 import com.example.thecopy.dialogs.AddTeamDialogFragment;
 import com.example.thecopy.dialogs.CreateMatchlistDialogFragment;
 import com.example.thecopy.dialogs.DialogListener;
@@ -48,7 +49,7 @@ public class OptionScreenActivity extends AppCompatActivity implements DialogLis
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         super.onCreateOptionsMenu(menu);
-        getMenuInflater().inflate(R.menu.menu_opition, menu);
+        getMenuInflater().inflate(R.menu.menu_option, menu);
 
         return true;
     }

@@ -13,6 +13,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.thecopy.R;
 import com.example.thecopy.data.model.PitData;
 import com.example.thecopy.data.repo.PitDataRepo;
 import com.example.thecopy.data.repo.TeamsRepo;

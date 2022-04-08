@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.example.thecopy.R;
+
 public class NumberPicker extends LinearLayout {
 
     private final long REPEAT_DELAY = 50;
@@ -116,7 +118,7 @@ public class NumberPicker extends LinearLayout {
 
         valueText = new TextView(context);
         valueText.setTextSize(25);
-        valueText.setTextColor(getResources().getColor(R.color.Goldish));
+        valueText.setTextColor(getResources().getColor(R.color.yellow));
 
         valueText.setGravity(Gravity.CENTER_VERTICAL | Gravity.CENTER_HORIZONTAL);
         valueText.setText(value.toString());

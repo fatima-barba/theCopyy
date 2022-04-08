@@ -13,6 +13,8 @@ import android.widget.SectionIndexer;
 
 import androidx.core.content.res.ResourcesCompat;
 
+import com.example.thecopy.R;
+
 public class EventListView extends ListView {
 
     private Context ctx;
@@ -52,7 +54,7 @@ public class EventListView extends ListView {
             indexBarX = this.getWidth() - this.getPaddingRight() - scaledWidth;
 
             Paint p = new Paint();
-            p.setColor(ResourcesCompat.getColor(getResources(), R.color.BackGroundGreen, null));
+            p.setColor(ResourcesCompat.getColor(getResources(), R.color.green, null));
             p.setAlpha(200);
 
             canvas.drawRect(indexBarX, this.getPaddingTop(), indexBarX + scaledWidth,
@@ -62,7 +64,7 @@ public class EventListView extends ListView {
                     / sections.length;
 
             Paint textPaint = new Paint();
-            textPaint.setColor(getResources().getColor(R.color.Gold));
+            textPaint.setColor(getResources().getColor(R.color.gold));
             textPaint.setTextSize(scaledWidth / 3);
 
             for (int i = 0; i < sections.length; i++)

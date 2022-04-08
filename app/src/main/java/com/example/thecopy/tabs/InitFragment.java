@@ -9,6 +9,7 @@ import android.widget.ImageView;
 
 import androidx.fragment.app.Fragment;
 
+import com.example.thecopy.R;
 import com.example.thecopy.activities.MatchActivity;
 import com.example.thecopy.data.repo.StatsRepo;
 import com.example.thecopy.dialogs.NoShowDialogFragment;

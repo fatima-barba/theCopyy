@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 import androidx.fragment.app.DialogFragment;
 
+import com.example.thecopy.R;
 import com.example.thecopy.data.model.Matches;
 import com.example.thecopy.data.repo.MatchesRepo;
 import com.example.thecopy.data.repo.TeamsRepo;
@@ -37,7 +38,7 @@ public class CreateMatchlistDialogFragment extends DialogFragment {
 
     private Button buttonAddMatch;
 
-    private com.vandenrobotics.saga.views.NumberPicker mMatchNum;
+    private com.example.thecopy.views.NumberPicker mMatchNum;
 
     private TeamsRepo teamsRepo;
     private MatchesRepo matchesRepo;

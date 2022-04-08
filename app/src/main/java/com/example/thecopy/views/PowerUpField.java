@@ -14,6 +14,8 @@ import android.view.View;
 
 import androidx.annotation.Nullable;
 
+import com.example.thecopy.R;
+
 public class PowerUpField extends View {
     static Paint paint;
 

@@ -11,6 +11,7 @@ import android.widget.NumberPicker;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.fragment.app.Fragment;
 
+import com.example.thecopy.R;
 import com.example.thecopy.activities.MatchActivity;
 import com.example.thecopy.data.model.Stats;
 import com.example.thecopy.data.repo.StatsRepo;

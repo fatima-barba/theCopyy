@@ -10,6 +10,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentTabHost;
 import androidx.viewpager.widget.PagerTabStrip;
 
+import com.example.thecopy.R;
 import com.example.thecopy.data.model.MatchInfo;
 import com.example.thecopy.data.repo.MatchInfoRepo;
 import com.example.thecopy.data.repo.StatsRepo;
@@ -60,8 +61,8 @@ public class MatchActivity extends FragmentActivity implements DialogListener {
         matchInfoRepo = new MatchInfoRepo();
 
         mAllianceColor = (mDeviceNumber>0 && mDeviceNumber<4)? "RED" : "BLUE";
-        allianceColor = (mDeviceNumber>0 && mDeviceNumber<4)? R.color.FIRST_RED : R.color.FIRST_BLUE;
-        textColor = (allianceColor== R.color.FIRST_RED)? R.color.Black : R.color.White;
+        allianceColor = (mDeviceNumber>0 && mDeviceNumber<4)? R.color.red : R.color.blue;
+        textColor = (allianceColor== R.color.red)? R.color.black : R.color.white;
 
         setupInfoBar();
         //TODO set up sliding pages

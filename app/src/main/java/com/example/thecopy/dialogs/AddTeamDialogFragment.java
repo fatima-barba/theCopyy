@@ -12,6 +12,7 @@ import android.widget.EditText;
 
 import androidx.fragment.app.DialogFragment;
 
+import com.example.thecopy.R;
 import com.example.thecopy.data.model.Teams;
 import com.example.thecopy.data.repo.TeamsRepo;
 

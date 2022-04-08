@@ -6,6 +6,10 @@ import android.app.Dialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
+import androidx.fragment.app.DialogFragment;
+
+import com.example.thecopy.R;
+
 public class NoShowDialogFragment extends DialogFragment {
 
     // Use this instance of the interface to deliver action events

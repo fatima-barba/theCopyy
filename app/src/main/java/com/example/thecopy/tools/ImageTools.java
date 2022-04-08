@@ -5,6 +5,8 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.widget.ImageView;
 
+import com.example.thecopy.R;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
