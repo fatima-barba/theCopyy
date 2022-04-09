@@ -30,7 +30,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="RED VAULT"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gray"
                 android:textSize="20dp"
                 android:textAlignment="center"/>
             <LinearLayout
@@ -48,7 +48,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:text="@string/force"
-                        android:background="@color/Red"
+                        android:background="@color/red"
                         android:layout_margin="4dp"
                         android:id="@+id/redBtn_forceMain"/>
                     <Button
@@ -57,7 +57,7 @@
                         android:id="@+id/redBtn_levitateMain"
                         android:layout_weight="3"
                         android:text="@string/levitate"
-                        android:background="@color/Red"
+                        android:background="@color/red"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
@@ -65,7 +65,7 @@
                         android:layout_weight="3"
                         android:id="@+id/redBtn_boostMain"
                         android:text="@string/boost"
-                        android:background="@color/Red"
+                        android:background="@color/red"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>
@@ -78,7 +78,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"
                         android:id="@+id/redBtn_forceTop"/>
                     <Button
@@ -86,14 +86,14 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_levitateTop"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_boostTop"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>
@@ -107,21 +107,21 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_forceMid"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_levitateMid"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_boostMid"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>
@@ -135,21 +135,21 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_forceBottom"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_levitateBottom"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/redBtn_boostBottom"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>
@@ -167,7 +167,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="BLUE VAULT"
-                android:textColor="@color/Goldish"
+                android:textColor="@color/gray"
                 android:textSize="20dp"
                 android:textAlignment="center"/>
             <LinearLayout
@@ -185,7 +185,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:text="@string/force"
-                        android:background="@color/Blue"
+                        android:background="@color/blue"
                         android:layout_margin="4dp"
                         android:id="@+id/blueBtn_forceMain"/>
                     <Button
@@ -194,7 +194,7 @@
                         android:id="@+id/blueBtn_levitateMain"
                         android:layout_weight="3"
                         android:text="@string/levitate"
-                        android:background="@color/Blue"
+                        android:background="@color/blue"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
@@ -202,7 +202,7 @@
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_boostMain"
                         android:text="@string/boost"
-                        android:background="@color/Blue"
+                        android:background="@color/blue"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>
@@ -215,7 +215,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"
                         android:id="@+id/blueBtn_forceTop"/>
                     <Button
@@ -223,14 +223,14 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_levitateTop"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_boostTop"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>
@@ -244,21 +244,21 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_forceMid"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_levitateMid"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_boostMid"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>
@@ -272,21 +272,21 @@
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_forceBottom"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_levitateBottom"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="3"
                         android:id="@+id/blueBtn_boostBottom"
-                        android:background="@color/Gray"
+                        android:background="@color/gray"
                         android:layout_margin="4dp"/>
 
                 </LinearLayout>

@@ -84,7 +84,7 @@
             android:layout_marginTop="8dp"
             android:layout_weight="3"
             android:text="@string/blue_switch_alliance"
-            android:background="@color/Blue"/>
+            android:background="@color/blue"/>
 
         <Button
             android:id="@+id/blueBtn_scale"
@@ -108,7 +108,7 @@
             android:layout_marginTop="8dp"
             android:layout_weight="3"
             android:text="@string/blue_switch_opponent"
-            android:background="@color/Blue"/>
+            android:background="@color/blue"/>
     </LinearLayout>
 
     <LinearLayout
@@ -135,7 +135,7 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_weight="3"
-            android:background="@color/Red"
+            android:background="@color/red"
             android:text="Red Switch Opponent" />
 
         <Button
@@ -147,7 +147,7 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_weight="3"
-            android:background="@color/Red"
+            android:background="@color/red"
             android:text="@string/red_scale" />
 
         <Button
@@ -159,7 +159,7 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_weight="3"
-            android:background="@color/Red"
+            android:background="@color/red"
             android:text="@string/red_switch_alliance" />
     </LinearLayout>
 

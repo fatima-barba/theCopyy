@@ -57,6 +57,8 @@
     <string name="force">force</string>
     <string name="levitate">levitate</string>
     <string name="boost">boost</string>
+    <string name="text_downloadEventListTitle">download event list title</string>
+    <string name="text_tbaEventListTitle">Event List Titile</string>
 
 
 </resources>

@@ -28,7 +28,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_autoType"
-                android:textColor="@color/White" />
+                android:textColor="@color/white" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -41,7 +41,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight=".5"
                     android:text="@string/CheckBox_crossBaseline"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/pitCb_autoCubeInSwitch"
@@ -49,7 +49,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight=".5"
                     android:text="@string/CheckBox_cube_in_switch"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/pitCb_autoCubeInScale"
@@ -57,7 +57,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight=".5"
                     android:text="@string/CheckBox_cube_in_scale"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/pitCb_autoCubeInExchange"
@@ -65,7 +65,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight=".5"
                     android:text="@string/CheckBox_cube_in_exchange"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/pitCb_autoOther"
@@ -73,7 +73,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight=".5"
                     android:text="@string/CheckBox_other_auto"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
             </LinearLayout>
 
@@ -82,7 +82,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_switch_or_scale"
-                android:textColor="@color/White" />
+                android:textColor="@color/white" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -95,7 +95,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/CheckBox_scale"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/pitCb_canGetSwitch"
@@ -103,7 +103,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/CheckBox_switch"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
             </LinearLayout>
 
             <TextView
@@ -111,7 +111,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_averageSpeed"
-                android:textColor="@color/White"  />
+                android:textColor="@color/white"  />
 
             <EditText
                 android:id="@+id/pitEt_averageSpeed"
@@ -119,14 +119,14 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="number"
-                android:textColor="@color/Goldish"  />
+                android:textColor="@color/gray"  />
 
             <TextView
                 android:id="@+id/textView13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_cycleAreas"
-                android:textColor="@color/White"  />
+                android:textColor="@color/white"  />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -139,7 +139,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/CheckBox_ground"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/pitCb_cyclePortal"
@@ -147,7 +147,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/CheckBox_portal"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/pitCb_cycleSwitches"
@@ -155,7 +155,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/CheckBox_switch2"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
             </LinearLayout>
 
             <TextView
@@ -163,7 +163,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_climb"
-                android:textColor="@color/White"  />
+                android:textColor="@color/white"  />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -177,7 +177,7 @@
                     android:layout_weight="1"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:textColor="@color/Goldish"  />
+                    android:textColor="@color/gray"  />
             </LinearLayout>
 
             <TextView
@@ -185,7 +185,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_floorPickup"
-                android:textColor="@color/White" />
+                android:textColor="@color/white" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -198,7 +198,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/RadioButton_yes"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <RadioButton
                     android:id="@+id/pitRb_no"
@@ -206,7 +206,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/RadioButton_no"
-                    android:textColor="@color/Goldish"/>
+                    android:textColor="@color/gray"/>
             </LinearLayout>
 
             <TextView
@@ -214,7 +214,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_driveTrain"
-                android:textColor="@color/White"  />
+                android:textColor="@color/white"  />
 
             <EditText
                 android:id="@+id/pitEt_driveTrain"
@@ -222,14 +222,14 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:textColor="@color/Goldish"  />
+                android:textColor="@color/gray"  />
 
             <TextView
                 android:id="@+id/TextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/TextView_intakeShooterType"
-                android:textColor="@color/White" />
+                android:textColor="@color/white" />
 
             <EditText
                 android:id="@+id/pitEt_intakeLift"
@@ -237,14 +237,14 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:textColor="@color/Goldish"  />
+                android:textColor="@color/gray"  />
 
             <TextView
                 android:id="@+id/PragLang"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Programming Language:"
-                android:textColor="@color/White" />
+                android:textColor="@color/white" />
 
             <EditText
                 android:id="@+id/pitEt_progLang"
@@ -252,13 +252,13 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:textColor="@color/Goldish"  />
+                android:textColor="@color/gray"  />
             <TextView
                 android:id="@+id/Comments"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Comments:"
-                android:textColor="@color/White" />
+                android:textColor="@color/white" />
 
             <EditText
                 android:id="@+id/pitEt_comments"
@@ -266,7 +266,7 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:textColor="@color/Goldish"  />
+                android:textColor="@color/gray"  />
 
             <TextView
                 android:id="@+id/textView7"

@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/BackGroundGreen"
+    android:background="@color/green"
     android:paddingBottom="16dp"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
@@ -27,7 +27,7 @@
                     android:layout_alignParentTop="true"
                     android:layout_centerHorizontal="true"
                     android:text="@string/text_ScoutInformation"
-                    android:textColor="@color/Goldish"
+                    android:textColor="@color/gray"
                     android:textSize="24sp"
                     android:textStyle="bold"
                     android:typeface="serif" />
@@ -40,7 +40,7 @@
                     android:layout_alignParentStart="true"
                     android:layout_below="@+id/textViewSpinnerInfo"
                     android:text="@string/text_promptSpinnerDevice"
-                    android:textColor="@color/Goldish"
+                    android:textColor="@color/gray"
                     android:textSize="16sp" />
 
                 <Spinner
@@ -62,7 +62,7 @@
                     android:layout_alignParentStart="true"
                     android:layout_below="@+id/spinnerDeviceNumber"
                     android:text="@string/text_promptSpinnerMatch"
-                    android:textColor="@color/Goldish"
+                    android:textColor="@color/gray"
                     android:textSize="16sp" />
 
 
@@ -84,7 +84,7 @@
                     android:layout_alignParentRight="true"
                     android:layout_below="@+id/pickerMatch"
                     android:text="@string/text_promptSpinnerTeam"
-                    android:textColor="@color/Goldish"
+                    android:textColor="@color/gray"
                     android:textSize="16sp" />
 
                 <Spinner
@@ -102,7 +102,7 @@
                     android:layout_centerHorizontal="true"
                     android:onClick="activityMatch"
                     android:text="@string/button_startMatch"
-                    android:textColor="@color/Goldish"
+                    android:textColor="@color/gray"
                     android:textSize="24sp"
                     android:layout_below="@+id/button_sendData"/>
 
@@ -116,7 +116,7 @@
                     android:layout_marginTop="18dp"
                     android:onClick="sendDataViaBluetooth"
                     android:text="@string/send_data_via_bluetooth"
-                    android:textColor="@color/Goldish" />
+                    android:textColor="@color/gray" />
 
                 <CheckBox
                     android:id="@+id/checkBox_enableDataTransfer"
